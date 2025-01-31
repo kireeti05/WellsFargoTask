@@ -1,2 +1,2 @@
-# Task 2 Model Answer
-Model answer for task 2 of the Wells Fargo Software Development Forage program
+# Task 2 Answer
+implemented the data model created in the previous task within the provided Spring application.
